@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently working on<br><br>Push2Prod — automating containerization and CI/CD generation for developers.<br><br>🤝 Open to collaborate on<br><br>Cloud-native systems, DevOps tooling, and scalable backend infrastructure.<br><br>🌱 Currently learning<br><br>Advanced AWS architecture & production-ready deployment strategies.<br><br>💬 Ask me about<br><br>Serverless architecture, GitHub Actions, and cloud automation.<br><br>⚡ Fun fact<br><br>Obsessed with building systems that deploy themselves.
+ Currently working on<br><br>Push2Prod — automating containerization and CI/CD generation for developers.<br><br>Open to collaborate on<br><br>Cloud-native systems, DevOps tooling, and scalable backend infrastructure.<br><br>Currently learning<br><br>Advanced AWS architecture & production-ready deployment strategies.<br><br>Ask me about<br><br>Serverless architecture, GitHub Actions, and cloud automation.<br><br>Fun fact<br><br>Obsessed with building systems that deploy themselves.
 
 
 ## 🌐 Socials:
